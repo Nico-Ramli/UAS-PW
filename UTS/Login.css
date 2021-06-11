@@ -1,0 +1,44 @@
+.box{
+    width: 300px;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    align-content: center;
+    margin-top: 250px;
+    background: white;
+    border-radius: 30px;
+    box-shadow: 7px 7px 7px rgb(33, 29, 53);
+}
+
+.userpass{
+    border-radius: 60px;
+    margin-top: -20px;
+    margin-bottom:20px;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+}
+
+.bground{
+    background-image:url('Valorants.jpg');
+}
+
+.btnlog{
+    margin-top: 30px;
+    width: 70px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #3498DB;
+    color: white;
+    border: 20px;
+}
+
+.logintext{
+    margin-top: 40px;
+    size: 20px;
+}
+
+.formbox{
+    margin-top: 40px;
+}

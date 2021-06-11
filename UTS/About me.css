@@ -1,0 +1,23 @@
+body{
+    background :linear-gradient(to right,#EBF5DF, #BAD4AA);
+}
+p1{
+    margin-top:100px;
+}
+class="row justify-content-center row-cols-2 row-cols-md-4 mt-3 ml-5 mr-5 shadow-lg"
+class="card-img-top "
+img{
+    width:50px;
+}
+main{
+    font-family: 'Pattaya', sans-serif;
+    font-size:50px;
+}
+
+.fullscreen-bg{
+    position:absolute;
+
+}
+.photo{
+    margin-top:50px;
+}
